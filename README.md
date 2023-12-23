@@ -21,7 +21,7 @@ Some of the challenges that will be faced during the project include ensuring th
 
 Please ensure your Python3 version is >= 3.9.
 
-To install the Health App, follow these steps:
+To install myHealth, follow these steps:
 
 1. Install SQLite and curl:  `sudo apt-get install sqlite3 curl`
 
