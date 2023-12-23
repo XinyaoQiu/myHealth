@@ -1,12 +1,12 @@
-# Health App
+# myHealth
 
-Health App is a mobile app designed to help elderly individuals manage their health. The app tracks vital signs, reminds users to take medication, and help chat with existing healthcare expert or other elders. The app is user-friendly and secure, ensuring the privacy of user data.
+myHealth is a mobile app designed to help elderly individuals manage their health. The app tracks vital signs, reminds users to take medication, and helps chat with existing healthcare experts or other elders. The app is user-friendly and secure, ensuring the privacy of user data.
 
 ## Background Information
 
 Similar solutions that have been identified include existing health management apps that track vital signs, remind users to take medication, and schedule appointments. These solutions can be leveraged by incorporating some of the best practices and features into the design of the app. The development of the app requires expertise in mobile app development, healthcare technology, and user experience design. On the team, there are experienced developers who have expertise in these fields and can contribute to the successful delivery of the project.
 
-Some of the challenges that will be faced during the project include ensuring that the app is user-friendly and accessible to the elderly population, and that it integrates seamlessly with existing healthcare systems and devices. Additionally, ensuring the security and privacy of user data will be a crucial challenge. The technical hurdle that must be managed is the integration of various health tracking devices and systems with the app, ensuring that the app provides accurate and reliable health data to users. This requires expertise in device integration and data management.
+Some of the challenges that will be faced during the project include ensuring that the app is user-friendly and accessible to the elderly population and that it integrates seamlessly with existing healthcare systems and devices. Additionally, ensuring the security and privacy of user data will be a crucial challenge. The technical hurdle that must be managed is the integration of various health-tracking devices and systems with the app, ensuring that the app provides accurate and reliable health data to users. This requires expertise in device integration and data management.
 
 ## Features
 
